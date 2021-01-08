@@ -1,0 +1,9 @@
+1 adcsdd sdcs aaa 88 1
+2 qdsf sdsd qedq 77 1
+3 sds sdvs aaa 66 0
+4 dsf sdfs aaa 55 0
+5 edsdf sdfs aaa 44 0
+6 sdfdsf sfsdf bbb 33 0
+7 sdfsf sfsf bbb 22 0
+8 sdfsf sfsf ccc 11 0
+
